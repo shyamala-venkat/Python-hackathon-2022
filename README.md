@@ -1,6 +1,6 @@
 # Python-hackathon-2022
 
-I have participated in a hackathon conducted by Northeastern University, San Jose, US, along with my team members and won second prize. 
+I have participated in a hackathon conducted by Northeastern University, San Jose, US, in 2022, along with my team members and were declared as Runner up.
 
 Data cleaning and Exploratory data analysis were done on the dataset consisting of song lyrics and the important insights were visualized using different types of graphs and charts (GGPlot).
 
