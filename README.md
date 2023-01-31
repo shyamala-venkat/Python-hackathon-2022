@@ -1,4 +1,4 @@
-# Python-hackathon-2022
+# Thematic Analysis of Song Lyrics
 
 I have participated in a hackathon conducted by Northeastern University, San Jose, US, in 2022, along with my team members and were declared as Runner up.
 
